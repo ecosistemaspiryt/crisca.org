@@ -1,0 +1,15 @@
+{
+    "title": "Contacto",
+    "subtitle": "¿Tenés dudas? Escribinos.",
+    "form": {
+        "name": "Nombre",
+        "email": "Email",
+        "message": "Mensaje",
+        "submit": "Enviar Mensaje"
+    },
+    "info": {
+        "address": "Dirección",
+        "phone": "Teléfono",
+        "email": "Email"
+    }
+}

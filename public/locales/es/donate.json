@@ -1,0 +1,74 @@
+{
+    "title": "Donar Tecnología",
+    "subtitle": "Tu viejo equipo es el tesoro de alguien más.",
+    "hero": {
+        "title": "Pre-registro de Donación",
+        "subtitle": "Completá este formulario para iniciar el proceso de donación."
+    },
+    "form": {
+        "title": "Tus Datos y Equipos",
+        "description": "La información que nos brindes nos ayuda a organizar la logística.",
+        "fields": {
+            "name": {
+                "label": "Nombre Completo *",
+                "placeholder": "Juan Pérez"
+            },
+            "email": {
+                "label": "Email *",
+                "placeholder": "juan@ejemplo.com"
+            },
+            "phone": {
+                "label": "Teléfono / WhatsApp *",
+                "placeholder": "11 1234 5678"
+            },
+            "city": {
+                "label": "Ciudad / Barrio *",
+                "placeholder": "Ej. Belgrano, CABA"
+            },
+            "items": {
+                "label": "¿Qué equipos querés donar? *",
+                "placeholder": "Ej: 2 gabinetes PC de escritorio, 1 monitor LCD 19 pulgadas, teclado y mouse..."
+            },
+            "condition": {
+                "label": "Estado Aproximado *",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "working": "Funcionan correctamente",
+                    "repairable": "No funcionan / Para reparar",
+                    "unknown": "No lo sé",
+                    "mixed": "Mix (algunos andan, otros no)"
+                }
+            },
+            "deliveryMethod": {
+                "label": "Método de Entrega *",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "dropoff_caba": "Llevo a Punto CABA (Palermo)",
+                    "dropoff_gba": "Llevo a Punto GBA (San Isidro)",
+                    "pickup": "Necesito que lo retiren (sujeto a disponibilidad)"
+                }
+            },
+            "comments": {
+                "label": "Comentarios Adicionales",
+                "placeholder": "¿Alguna aclaración sobre horarios o accesibilidad?"
+            },
+            "terms": "Entiendo que los equipos serán evaluados y, si no son recuperables para el fin del proyecto, CRISCA dispondrá de ellos de manera ambientalmente responsable."
+        },
+        "validation": {
+            "name": "El nombre es muy corto.",
+            "phone": "El teléfono debe tener al menos 8 dígitos.",
+            "city": "La ciudad es requerida.",
+            "items": "Por favor describí qué equipos querés donar.",
+            "condition": "Seleccioná el estado aproximado.",
+            "deliveryMethod": "Seleccioná cómo nos harías llegar la donación.",
+            "terms": "Tenés que aceptar los términos para continuar."
+        },
+        "submit": "Enviar Donación",
+        "submitting": "Enviando...",
+        "success": {
+            "title": "¡Gracias por tu intención de donar!",
+            "message": "Recibimos tus datos correctamente. Un voluntario de CRISCA se pondrá en contacto con vos en las próximas 48hs al email <bold>{{email}}</bold> para coordinar los detalles.",
+            "button": "Volver al Inicio"
+        }
+    }
+}

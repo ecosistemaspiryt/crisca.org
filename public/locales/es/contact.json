@@ -1,0 +1,46 @@
+{
+    "title": "Contacto",
+    "subtitle": "¿Tenés dudas? Escribinos.",
+    "hero": {
+        "title": "Envianos un mensaje",
+        "subtitle": "Respondemos todas las consultas en un plazo de 24 a 48hs hábiles."
+    },
+    "form": {
+        "title": "Formulario de Contacto",
+        "fields": {
+            "name": {
+                "label": "Nombre Completo *",
+                "placeholder": "Tu nombre"
+            },
+            "email": {
+                "label": "Email *",
+                "placeholder": "vos@email.com"
+            },
+            "subject": {
+                "label": "Asunto *",
+                "placeholder": "¿Cómo podemos ayudarte?"
+            },
+            "message": {
+                "label": "Mensaje *",
+                "placeholder": "Escribí tu consulta acá..."
+            }
+        },
+        "validation": {
+            "name": "El nombre es requerido.",
+            "subject": "Asunto requerido.",
+            "message": "El mensaje es muy corto."
+        },
+        "submit": "Enviar Mensaje",
+        "submitting": "Enviando...",
+        "success": {
+            "title": "¡Mensaje Enviado!",
+            "message": "Gracias por escribirnos. Te responderemos a la brevedad.",
+            "button": "Nuevo mensaje"
+        }
+    },
+    "info": {
+        "address": "Dirección",
+        "phone": "Teléfono",
+        "email": "Email"
+    }
+}

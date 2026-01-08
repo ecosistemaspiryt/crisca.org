@@ -1,0 +1,11 @@
+{
+    "title": "Blog y Novedades",
+    "subtitle": "Historias de reparación, entrega y esperanza.",
+    "read_more": "Leer más",
+    "categories": {
+        "all": "Todos",
+        "news": "Noticias",
+        "stories": "Historias",
+        "tutorials": "Tutoriales"
+    }
+}

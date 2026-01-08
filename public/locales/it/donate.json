@@ -1,0 +1,15 @@
+{
+    "title": "Donar Tecnología",
+    "subtitle": "Tu viejo equipo es el tesoro de alguien más.",
+    "form": {
+        "personal_data": "Datos Personales",
+        "equipment_data": "Datos del Equipo",
+        "name_label": "Nombre Completo",
+        "email_label": "Email",
+        "phone_label": "Teléfono",
+        "type_label": "Tipo de Equipo",
+        "qty_label": "Cantidad",
+        "condition_label": "Estado",
+        "submit": "Enviar Donación"
+    }
+}
