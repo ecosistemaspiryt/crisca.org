@@ -1,0 +1,13 @@
+{
+    "validation": {
+        "required": "Este campo es obligatorio",
+        "email": "Ingresá un email válido",
+        "min_length": "Debe tener al menos {{min}} caracteres",
+        "phone": "Ingresá un teléfono válido"
+    },
+    "messages": {
+        "success": "¡Enviado con éxito!",
+        "error": "Hubo un error al enviar. Por favor intentá de nuevo.",
+        "loading": "Enviando..."
+    }
+}

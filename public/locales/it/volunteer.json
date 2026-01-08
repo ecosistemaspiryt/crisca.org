@@ -1,0 +1,13 @@
+{
+    "title": "Sumate como Voluntario",
+    "subtitle": "Doná tu tiempo y talento para reparar esperanzas.",
+    "form": {
+        "name_label": "Nombre Completo",
+        "email_label": "Email",
+        "phone_label": "WhatsApp",
+        "availability_label": "Disponibilidad Horaria",
+        "skills_label": "Conocimientos Técnicos",
+        "motivation_label": "¿Por qué querés sumarte?",
+        "submit": "Quiero ser Voluntario"
+    }
+}

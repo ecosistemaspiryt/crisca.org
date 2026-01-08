@@ -1,0 +1,10 @@
+{
+    "title": "Nuestro Impacto",
+    "subtitle": "Números que transforman realidades.",
+    "stats": {
+        "computers": "Computadoras Recuperadas",
+        "people": "Personas Beneficiadas",
+        "waste": "Kg de E-Waste Evitado",
+        "volunteers": "Voluntarios Activos"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Solicitar Equipamiento",
+    "subtitle": "Contanos la necesidad de tu comunidad.",
+    "form": {
+        "org_name_label": "Nombre de la Organización",
+        "contact_label": "Persona de Contacto",
+        "needs_label": "¿Qué necesitan?",
+        "beneficiaries_label": "Cantidad de Beneficiarios",
+        "submit": "Enviar Solicitud"
+    }
+}

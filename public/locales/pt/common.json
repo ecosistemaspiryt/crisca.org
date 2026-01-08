@@ -1,0 +1,27 @@
+{
+    "site": {
+        "name": "CRISCA",
+        "tagline": "Centro de Reciclaje Informático de la Sociedad para Carlo Acutis",
+        "description": "Convertimos equipos en desuso en puentes de oportunidad."
+    },
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre CRISCA",
+        "participate": "Cómo Participar",
+        "impact": "Impacto",
+        "blog": "Blog",
+        "contact": "Contacto"
+    },
+    "cta": {
+        "donate": "Quiero Donar",
+        "volunteer": "Ser Voluntario",
+        "request": "Solicitar Equipos",
+        "learn_more": "Saber Más"
+    },
+    "footer": {
+        "rights": "Todos los derechos reservados",
+        "contact_us": "Contáctanos",
+        "legal": "Legales",
+        "privacy": "Privacidad"
+    }
+}

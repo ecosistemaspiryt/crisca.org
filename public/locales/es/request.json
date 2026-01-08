@@ -1,0 +1,85 @@
+{
+    "hero": {
+        "title": "Solicitar Equipamiento",
+        "subtitle": "Si tu institución o familia necesita tecnología, contanos tu historia. Queremos ayudarlos.",
+        "cta": "Ir al Formulario"
+    },
+    "criteria": {
+        "title": "Criterios de Asignación",
+        "items": [
+            {
+                "text": "Instituciones educativas y comedores comunitarios tienen prioridad."
+            },
+            {
+                "text": "Evaluamos la urgencia y el impacto social del pedido."
+            },
+            {
+                "text": "Requerimos compromiso de cuidado y uso responsable."
+            }
+        ]
+    },
+    "form": {
+        "title": "Formulario de Solicitud",
+        "subtitle": "Contanos tu necesidad para que podamos ayudar.",
+        "card_title": "Detalles de la Solicitud",
+        "card_desc": "Esta información es confidencial y solo para uso interno de evaluación.",
+        "fields": {
+            "applicantType": {
+                "label": "Tipo de Solicitante",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "organization": "Organización / Institución",
+                    "individual": "Particular / Familia"
+                }
+            },
+            "fullName": {
+                "label": "Nombre del Responsable",
+                "placeholder": "Nombre completo"
+            },
+            "orgName": {
+                "label": "Nombre de la Organización (si aplica)",
+                "placeholder": "Ej. Escuela N° 10"
+            },
+            "phone": {
+                "label": "Teléfono de Contacto",
+                "placeholder": "11 1234 5678"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "contacto@email.com"
+            },
+            "address": {
+                "label": "Dirección de entrega / uso",
+                "placeholder": "Calle, Altura, Localidad"
+            },
+            "usage": {
+                "label": "¿Para qué utilizarán principalmente los equipos?",
+                "placeholder": "Ej. Clases de computación para niños..."
+            },
+            "beneficiaries": {
+                "label": "Cantidad Estimada de Beneficiarios",
+                "placeholder": "Ej. 50"
+            },
+            "internet": {
+                "label": "¿Cuentan con conexión a internet?",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "yes": "Sí, banda ancha / WiFi",
+                    "mobile": "Solo datos móviles",
+                    "no": "No tenemos conexión"
+                }
+            },
+            "file_upload": {
+                "text": "Adjuntar carta de solicitud o foto del lugar (Opcional)",
+                "hint": "PDF, JPG o PNG hasta 5MB"
+            }
+        },
+        "submit": "Enviar Solicitud",
+        "submitting": "Enviando...",
+        "success": {
+            "title": "¡Solicitud Registrada!",
+            "message": "Hemos recibido tu pedido. Nuestro equipo de coordinación social evaluará la solicitud y te contactará si hay disponibilidad.",
+            "back": "Volver al inicio"
+        }
+    }
+}

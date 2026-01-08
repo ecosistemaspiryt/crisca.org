@@ -1,0 +1,27 @@
+{
+    "title": "Nuestro Impacto",
+    "subtitle": "Números que transforman realidades.",
+    "cta": "Ver Más Impacto",
+    "stats": {
+        "recovered": {
+            "label": "Equipos Recuperados",
+            "value": "200"
+        },
+        "beneficiaries": {
+            "label": "Personas Beneficiadas",
+            "value": "500"
+        },
+        "chapels": {
+            "label": "Capillas Activas",
+            "value": "10"
+        },
+        "volunteers": {
+            "label": "Voluntarios Técnicos",
+            "value": "30"
+        },
+        "waste": {
+            "label": "Toneladas Evitadas",
+            "value": "2"
+        }
+    }
+}

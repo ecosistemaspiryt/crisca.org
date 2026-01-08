@@ -1,0 +1,17 @@
+{
+    "title": "¿Qué es CRISCA?",
+    "cards": {
+        "identity": {
+            "title": "Tecnología con Identidad",
+            "description": "Recuperamos el valor de cada equipo, transformando \"basura\" en herramientas de dignidad."
+        },
+        "tenderness": {
+            "title": "Ternura Aplicada",
+            "description": "Cada reparación es un acto de cuidado. Nuestros técnicos ponen sus manos y su corazón."
+        },
+        "faith": {
+            "title": "Fe + Tecnología",
+            "description": "Inspirados en el Beato Carlo Acutis, unimos la devoción con la innovación digital."
+        }
+    }
+}

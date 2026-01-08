@@ -1,0 +1,97 @@
+{
+    "title": "Abrir una Capilla Recicladora",
+    "subtitle": "Sé el puente entre los donantes y el taller.",
+    "requirements": {
+        "title": "Requisitos",
+        "space": "Espacio de acopio seco y seguro (aprox 2x2m)",
+        "availability": "Disponibilidad para recibir donaciones (al menos 4hs semanales)",
+        "commitment": "Compromiso con la misión de CRICA"
+    },
+    "hero": {
+        "title": "Postulá tu Espacio",
+        "subtitle": "Completá el formulario para iniciar el proceso de alta como Capilla Recicladora."
+    },
+    "form": {
+        "sections": {
+            "organization": {
+                "title": "Datos de la Organización",
+                "description": "Información sobre el lugar y el responsable."
+            },
+            "responsible": {
+                "title": "Datos del Responsable"
+            },
+            "logistics": {
+                "title": "Logística"
+            },
+            "motivation": {
+                "label": "¿Por qué quieren ser Capilla Recicladora? *"
+            }
+        },
+        "fields": {
+            "orgName": {
+                "label": "Nombre del Espacio / Organización *",
+                "placeholder": "Ej. Club Social El Porvenir"
+            },
+            "orgType": {
+                "label": "Tipo de Organización *",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "parish": "Parroquia / Capilla",
+                    "school": "Escuela / Colegio",
+                    "club": "Club de Barrio",
+                    "ngo": "ONG / Fundación",
+                    "other": "Otro"
+                }
+            },
+            "contactName": {
+                "label": "Nombre y Apellido *",
+                "placeholder": "Juan Pérez"
+            },
+            "phone": {
+                "label": "Teléfono / WhatsApp *",
+                "placeholder": "11 1234 5678"
+            },
+            "email": {
+                "label": "Email de contacto *",
+                "placeholder": "contacto@organizacion.org"
+            },
+            "address": {
+                "label": "Dirección Completa *",
+                "placeholder": "Calle 123, Localidad, Provincia"
+            },
+            "availability": {
+                "label": "Días y Horarios de Atención *",
+                "placeholder": "Ej. Lun a Vie 9-17hs"
+            },
+            "storageSpace": {
+                "label": "¿Cuentan con espacio de acopio? *",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "yes_secure": "Sí, seguro y seco",
+                    "yes_limited": "Sí, pero limitado",
+                    "no": "No por el momento"
+                }
+            },
+            "motivation": {
+                "placeholder": "Contanos brevemente sobre su comunidad y por qué les interesa el proyecto..."
+            }
+        },
+        "validation": {
+            "orgName": "El nombre es muy corto.",
+            "orgType": "Seleccioná un tipo.",
+            "contactName": "Nombre del responsable requerido.",
+            "phone": "Teléfono requerido.",
+            "address": "Dirección requerida.",
+            "availability": "Horarios requeridos.",
+            "storageSpace": "Seleccioná si tienen espacio.",
+            "motivation": "Contanos brevemente por qué quieren sumarse."
+        },
+        "submit": "Enviar Postulación",
+        "submitting": "Enviando...",
+        "success": {
+            "title": "¡Postulación Enviada!",
+            "message": "Gracias por querer abrir las puertas de tu comunidad. Vamos a revisar la información y contactar a <bold>{{name}}</bold> en los próximos días.",
+            "button": "Enviar otra consulta"
+        }
+    }
+}

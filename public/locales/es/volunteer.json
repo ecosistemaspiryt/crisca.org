@@ -1,0 +1,81 @@
+{
+    "hero": {
+        "title": "Tus Manos son el Milagro",
+        "subtitle": "Unite a nuestra red de voluntarios técnicos y sociales. Cada equipo que reparás es una oportunidad para alguien más.",
+        "cta": "Quiero ser Voluntario"
+    },
+    "info": {
+        "title": "Desarrollá tus Talentos",
+        "items": {
+            "technical": {
+                "title": "Soporte Técnico",
+                "description": "Aprendé y enseñá reparación de PCs, instalación de sistemas operativos y diagnóstico de hardware."
+            },
+            "social": {
+                "title": "Acción Social",
+                "description": "Ayudanos a detectar necesidades en las comunidades y organizá las entregas de equipos."
+            },
+            "spiritual": {
+                "title": "Dimensión Espiritual",
+                "description": "Participá de espacios de oración y bendición de los equipos antes de su entrega."
+            }
+        }
+    },
+    "form": {
+        "title": "Sumate como Voluntario",
+        "subtitle": "Completá tus datos para que podamos asignarte las tareas que mejor se adapten a vos.",
+        "card_title": "Ficha de Inscripción",
+        "fields": {
+            "fullName": {
+                "label": "Nombre Completo",
+                "placeholder": "Tu nombre"
+            },
+            "city": {
+                "label": "Ciudad de Residencia",
+                "placeholder": "Ej. San Martín"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "vos@email.com"
+            },
+            "phone": {
+                "label": "Teléfono / Celular",
+                "placeholder": "11 5555 9999"
+            },
+            "techLevel": {
+                "label": "Nivel de Conocimiento Técnico",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "none": "Ninguno / Básico",
+                    "intermediate": "Intermedio (armado de PC, Windows)",
+                    "advanced": "Avanzado (Hardware, Linux, Redes)"
+                }
+            },
+            "areas": {
+                "label": "Área de Interés Principal",
+                "placeholder": "Seleccionar...",
+                "options": {
+                    "hardware": "Reparación de Hardware",
+                    "software": "Instalación de Software",
+                    "logistics": "Logística y Organización",
+                    "teaching": "Capacitación / Mentoring"
+                }
+            },
+            "availability": {
+                "label": "Disponibilidad Horaria Aproximada",
+                "placeholder": "Ej. Sábados por la mañana..."
+            },
+            "motivation": {
+                "label": "Comentarios o Motivación (Opcional)",
+                "placeholder": "¿Por qué te gustaría sumarte?..."
+            }
+        },
+        "submit": "Enviar Inscripción",
+        "submitting": "Enviando...",
+        "success": {
+            "title": "¡Bienvenido/a al Equipo!",
+            "message": "Tu entusiasmo nos contagia. Hemos recibido tus datos. Te vamos a contactar al email <bold>{{email}}</bold> para invitarte a la próxima charla informativa.",
+            "back": "Volver al formulario"
+        }
+    }
+}

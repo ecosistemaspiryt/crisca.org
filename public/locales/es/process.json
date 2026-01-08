@@ -1,0 +1,18 @@
+{
+    "title": "El Camino del Milagro",
+    "cta": "Ver el Proceso Completo",
+    "steps": {
+        "reception": {
+            "title": "Recepción Simbólica",
+            "description": "Las donaciones se reciben como ofrendas en espacios de confianza como capillas y parroquias."
+        },
+        "recycling": {
+            "title": "Reciclaje Devocional",
+            "description": "Técnicos voluntarios diagnostican, reparan, limpian y bendicen cada equipo recuperado."
+        },
+        "distribution": {
+            "title": "Redistribución Litúrgica",
+            "description": "Entregamos con ceremonia a quienes realmente lo necesitan, cerrando el círculo de la caridad."
+        }
+    }
+}

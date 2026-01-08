@@ -1,0 +1,26 @@
+{
+    "hero": {
+        "title": "Tecnología con Alma",
+        "subtitle": "Convertimos equipos en desuso en puentes de oportunidad, memoria y comunidad",
+        "donate": "Quiero Donar",
+        "request": "Quiero Recibir",
+        "learn_more": "Ver Cómo Funciona"
+    },
+    "about_section": {
+        "title": "¿Qué es CRISCA?",
+        "cards": {
+            "identity": {
+                "title": "Tecnología con Identidad",
+                "desc": "Recuperamos el valor humano detrás de cada dispositivo."
+            },
+            "tenderness": {
+                "title": "Ternura Aplicada",
+                "desc": "Cada equipo se prepara con dedicación y cuidado personal."
+            },
+            "faith": {
+                "title": "Fe + Tecnología",
+                "desc": "Unimos la innovación digital con valores espirituales profundos."
+            }
+        }
+    }
+}

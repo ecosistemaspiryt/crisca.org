@@ -1,0 +1,15 @@
+{
+    "title": "Sobre CRICA",
+    "mission": {
+        "title": "Nuestra Misión",
+        "desc": "Brindar acceso a la tecnología a quienes más lo necesitan, transformando desechos electrónicos en oportunidades."
+    },
+    "vision": {
+        "title": "Nuestra Visión",
+        "desc": "Un mundo donde la tecnología sea un puente de inclusión y no una barrera."
+    },
+    "history": {
+        "title": "Nuestra Historia",
+        "desc": "Inspirados por el ejemplo de Carlo Acutis..."
+    }
+}

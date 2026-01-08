@@ -1,0 +1,26 @@
+{
+    "title": "Cómo Participar",
+    "subtitle": "Ayudanos a conectar vidas a través de la tecnología.",
+    "cards": {
+        "donate": {
+            "title": "Donar Equipos",
+            "desc": "¿Tenés una compu que no usás? Puede cambiar una vida.",
+            "cta": "Donar Ahora"
+        },
+        "volunteer": {
+            "title": "Ser Voluntario",
+            "desc": "Sumá tus manos y tu conocimiento técnico.",
+            "cta": "Sumarme"
+        },
+        "chapel": {
+            "title": "Abrir Capilla",
+            "desc": "Convertí tu espacio en un punto de recolección.",
+            "cta": "Ver Requisitos"
+        },
+        "request": {
+            "title": "Solicitar Equipos",
+            "desc": "Si necesitás equipamiento para tu comunidad, contanos.",
+            "cta": "Solicitar"
+        }
+    }
+}

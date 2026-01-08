@@ -1,0 +1,13 @@
+{
+    "title": "Abrir una Capilla Recicladora",
+    "subtitle": "Sé el puente entre los donantes y el taller.",
+    "requirements": {
+        "title": "Requisitos",
+        "space": "Espacio de acopio seco y seguro (aprox 2x2m)",
+        "availability": "Disponibilidad para recibir donaciones (al menos 4hs semanales)",
+        "commitment": "Compromiso con la misión de CRICA"
+    },
+    "form": {
+        "submit": "Postular mi Espacio"
+    }
+}
